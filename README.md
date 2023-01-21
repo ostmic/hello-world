@@ -2,4 +2,4 @@
 
 This is my first repository made for Junior Front End Developer course.
 
-My first edit
+- My first edit
