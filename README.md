@@ -1,3 +1,5 @@
 # hello-world
-my first repository
-my first edit
+
+This is my first repository made for Junior Front End Developer cours.
+
+My first edit
